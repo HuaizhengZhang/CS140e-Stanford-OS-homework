@@ -5,3 +5,5 @@ authors = ["HuaizhengZhang <huaizhen001@e.ntu.edu.sg>"]
 edition = "2018"
 
 [dependencies]
+
+rand = "0.3.14"
